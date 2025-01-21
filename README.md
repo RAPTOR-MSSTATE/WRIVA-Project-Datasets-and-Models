@@ -9,8 +9,6 @@ The Google Drive link contains individual folders for the rain, soil, and finger
 
 We solely created the datasets contained in the Google Drive link. The drive consists of data sets for images with artifacts, including rain, soil, and finger-in-lense. These datasets were then used to train models capable of identifying and segmenting the specific artifact that each dataset was created around. Before training the model we annotated and labeled the artifacts in each of the images contained in the dataset and converted those annotations into a COCO-JSON file using an annotation software by makesense.ai. Each model was trained using Detectron2 for instance segmentation using our custom data.
 
-**EXAMPLE OUTPUTS OF EACH MODEL**
-
 ### Rain Drop Example
 
 ![siteA01-camA051-2023-04-15-14-41-58-000011 (1)](https://github.com/user-attachments/assets/705ba95c-dc16-41de-a3e0-905c99ac0ec5)
@@ -20,6 +18,7 @@ Original
 Segmentation
 
 ### Soil Example
+[EXAMPLE SOIL 77.pdf](https://github.com/user-attachments/files/18494828/EXAMPLE.SOIL.77.pdf)
 
 
 **Sources**
