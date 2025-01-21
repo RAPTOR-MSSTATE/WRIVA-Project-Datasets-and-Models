@@ -11,9 +11,7 @@ We solely created the datasets contained in the Google Drive link. The drive con
 
 **EXAMPLE OUTPUTS OF EACH MODEL**
 
-###
-Rain Drop Example
-###
+### Rain Drop Example
 
 ![siteA01-camA051-2023-04-15-14-41-58-000011 (1)](https://github.com/user-attachments/assets/705ba95c-dc16-41de-a3e0-905c99ac0ec5)
 Original
@@ -21,7 +19,7 @@ Original
 ![EXAMPLE RAIN SITE A01](https://github.com/user-attachments/assets/ebde985a-84d7-4ea1-bc16-c9f6a4ceed8f)
 Segmentation
 
-###Soil Example
+### Soil Example
 
 
 **Sources**
