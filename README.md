@@ -34,30 +34,30 @@ This guide provides step-by-step instructions to train a custom **instance segme
 
 ---
 
-# **1. Prepare Your Dataset**
+#### **1. Prepare Your Dataset**
 - Annotate images using an annotation tool like [MakeSense.ai](https://www.makesense.ai/).
 - Export annotations in **COCO JSON format**.
 - Ensure that images and annotation files are organized properly in your Google Drive for easy access. There should be a training folder containing your training images and COCO JSON file and a validation folder containing your validation images and COCO JSON file. **Use the Google Drive link at the beginning of the README for an example of how to set up your files.**
 
 ---
 
-## **2. Set Up Your Environment**
+#### **2. Set Up Your Environment**
 - Follow the given code to install **Detectron2** and its dependencies in Google Colab.
 
 ---
 
-## **3. Configure Your Dataset**
+#### **3. Configure Your Dataset**
 - Run blocks of code to define paths to **training** and **validation** datasets. You will use the folders that were created in step one to define the training and validation paths.
 
 ---
 
-## **4. Visualize Sample Annotations**
+#### **4. Visualize Sample Annotations**
 - Load and display a few annotated images to verify correctness.
 - Ensure that objects are properly labeled and segmented.
 
 ---
 
-## **5. Configure the Model**
+#### **5. Configure the Model**
 - Set hyperparameters such as:
   - **Batch size**
   - **Learning rate**
@@ -68,21 +68,21 @@ This guide provides step-by-step instructions to train a custom **instance segme
 
 ---
 
-## **6. Train the Model**
+#### **6. Train the Model**
 - Start training using `DefaultTrainer()`.
 - Training may take an extended time to complete.
 - Save the trained model weights once training is complete.
 
 ---
 
-## **7. Perform Segmentation on New Images**
+#### **7. Perform Segmentation on New Images**
 - Load the trained model.
 - Set a confidence threshold for predictions.
 - Test on validation images to visualize segmentation results.
 
 ---
 
-## **9. Process Multiple Images**
+#### **9. Process Multiple Images**
 - Run the model on all images in a folder.
 - Save segmented output images to an output directory.
 
