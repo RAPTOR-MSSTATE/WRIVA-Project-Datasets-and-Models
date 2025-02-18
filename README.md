@@ -43,7 +43,7 @@ Step-by-step instructions to train a custom **instance segmentation model** usin
 - Export annotations in **COCO JSON format**.
 - Ensure that images and annotation files are organized properly in your Google Drive for easy access. There should be a training folder containing your training images and COCO JSON file and a validation folder containing your validation images and COCO JSON file. **Use the Google Drive link at the beginning of the README for an example of how to set up your files.**
 
----
+--
 
 #### **2. Set Up Your Environment**
 - Follow the given code to install **Detectron2** and its dependencies in Google Colab.
