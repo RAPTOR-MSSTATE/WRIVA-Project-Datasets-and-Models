@@ -37,7 +37,6 @@ https://colab.research.google.com/drive/1-59uZ6JBe-3zA5GJITm2ZWocBQmKRJZs?authus
 
 Step-by-step instructions to train a custom **instance segmentation model** using **Detectron2** using the **provided Google Colab File above**. This code can also be used to test Pre-trained models.
 
----
 
 #### **1. Prepare Your Dataset**
 - Annotate images using an annotation tool like [MakeSense.ai](https://www.makesense.ai/).
