@@ -28,7 +28,7 @@ We solely created the datasets contained in the Google Drive. The drive consists
 
 ---
 
-### Colab File Used to Train Our Models
+### Code Used to Train Our Models
 https://colab.research.google.com/drive/1-59uZ6JBe-3zA5GJITm2ZWocBQmKRJZs?authuser=1#scrollTo=2z8JER1KM2Ul
 
 ## Train Your Own Model Using Detectron2
