@@ -37,7 +37,7 @@ This guide provides step-by-step instructions to train a custom **instance segme
 ## **1. Prepare Your Dataset**
 - Annotate images using an annotation tool like [MakeSense.ai](https://www.makesense.ai/).
 - Export annotations in **COCO JSON format**.
-- Ensure that images and annotation files are organized properly in your Google Drive for easy access. There should be a training folder containing your training images and COCO JSON file and a validation folder containing your validation images and COCO JSON file
+- Ensure that images and annotation files are organized properly in your Google Drive for easy access. There should be a training folder containing your training images and COCO JSON file and a validation folder containing your validation images and COCO JSON file. **Use the Google Drive link at the beginning of the README for an example of how to set up your files.**
 
 ---
 
