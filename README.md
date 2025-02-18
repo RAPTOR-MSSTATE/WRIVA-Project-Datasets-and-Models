@@ -37,7 +37,7 @@ This guide provides step-by-step instructions to train a custom **instance segme
 ## **1. Prepare Your Dataset**
 - Annotate images using an annotation tool like [MakeSense.ai](https://www.makesense.ai/).
 - Export annotations in **COCO JSON format**.
-- Ensure that images and annotation files are organized properly in your Google Drive for easy access.
+- Ensure that images and annotation files are organized properly in your Google Drive for easy access. There should be a training folder containing your training images and COCO JSON file and a validation folder containing your validation images and COCO JSON file
 
 ---
 
@@ -47,7 +47,7 @@ This guide provides step-by-step instructions to train a custom **instance segme
 ---
 
 ## **3. Configure Your Dataset**
-- Run blocks of code to define paths to **training** and **validation** datasets.
+- Run blocks of code to define paths to **training** and **validation** datasets. You will use the folders that were created in step one to define the training and validation paths.
 
 ---
 
@@ -63,6 +63,7 @@ This guide provides step-by-step instructions to train a custom **instance segme
   - **Learning rate**
   - **Number of iterations**
   - **Number of object classes**
+- Make sure the number you set for your object classes matches the number of unique artifact classes that were annotated.
 - Define an output directory to save model checkpoints.
 
 ---
@@ -89,6 +90,6 @@ This guide provides step-by-step instructions to train a custom **instance segme
 
 **Sources**
 
-Detectron2 (Used to train each model and create our own custom training script): https://colab.research.google.com/github/bnsreenu/python_for_microscopists/blob/master/330_Detectron2_Instance_3D_EM_Platelet.ipynb#scrollTo=10QrSe6tbogs
+Detectron2 (Used to train each model and create our own tailored custom training script): https://colab.research.google.com/github/bnsreenu/python_for_microscopists/blob/master/330_Detectron2_Instance_3D_EM_Platelet.ipynb#scrollTo=10QrSe6tbogs
 
-MakesenseAI (Used to create the annotations for each dataset): https://www.makesense.ai/
+MakesenseAI (Used to create the annotations in COCO JSON format for each dataset): https://www.makesense.ai/
