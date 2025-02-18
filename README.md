@@ -11,17 +11,17 @@ We solely created the datasets contained in the Google Drive. The drive consists
 
 ---
 
-### Rain Drop Pre-training Annotation Example
+### Rain Drop Example w/ Annotation
 
 <img width="471" alt="IMG_1748 2" src="https://github.com/user-attachments/assets/620e30ee-27a6-4353-beba-c86a49c37484" />
 <img width="471" alt="Screenshot 2025-02-18 at 8 23 10 AM" src="https://github.com/user-attachments/assets/bc9bbfa0-c098-487e-a734-50fc04c6c1c3" />
 
-### Soil Pre-training Annotation Example
+### Soil Example w/ Annotation
 
 <img width="471" alt="IMG 2161" src="https://github.com/user-attachments/assets/773a62a2-ab74-4bb4-9989-6bb348616201" />
 <img width="471" alt="Screenshot 2025-02-18 at 8 50 43 AM" src="https://github.com/user-attachments/assets/530ef844-6b11-4d80-8d13-75a9169f0c0f" />
 
-### Finger in Lense Pre-training Annotation Example
+### Finger in Lense Example w/ Annotation
 
 <img width="471" alt="Image28-obstruction" src="https://github.com/user-attachments/assets/4964395a-b9ac-4299-97fe-d9e75ee3862d" />
 <img width="471" alt="Screenshot 2025-02-18 at 8 58 58 AM" src="https://github.com/user-attachments/assets/03e00e9c-9806-4f80-a628-4dfbd60bb2f8" />
