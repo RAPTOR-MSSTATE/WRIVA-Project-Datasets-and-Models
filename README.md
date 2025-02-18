@@ -69,7 +69,7 @@ This guide provides step-by-step instructions to train a custom **instance segme
 ---
 
 #### **6. Train the Model**
-- Start training using `DefaultTrainer()`.
+- Run the line that starts the training process.
 - Training may take an extended time to complete.
 - Save the trained model weights once training is complete.
 
@@ -78,7 +78,7 @@ This guide provides step-by-step instructions to train a custom **instance segme
 #### **7. Perform Segmentation on New Images**
 - Load the trained model.
 - Set a confidence threshold for predictions.
-- Test on validation images to visualize segmentation results.
+- Test your model on validation images to visualize segmentation results.
 
 ---
 
@@ -88,7 +88,7 @@ This guide provides step-by-step instructions to train a custom **instance segme
 
 ---
 
-**Sources**
+## Sources
 
 Detectron2 (Used to train each model and create our own tailored custom training script): https://colab.research.google.com/github/bnsreenu/python_for_microscopists/blob/master/330_Detectron2_Instance_3D_EM_Platelet.ipynb#scrollTo=10QrSe6tbogs
 
