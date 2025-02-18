@@ -15,7 +15,10 @@ We solely created the datasets contained in the Google Drive link. The drive con
 <img width="471" alt="Screenshot 2025-02-18 at 8 23 10 AM" src="https://github.com/user-attachments/assets/bc9bbfa0-c098-487e-a734-50fc04c6c1c3" />
 
 ### Soil Example
-[EXAMPLE SOIL 77.pdf](https://github.com/user-attachments/files/18494828/EXAMPLE.SOIL.77.pdf)
+
+<img width="471" alt="IMG 2161" src="https://github.com/user-attachments/assets/773a62a2-ab74-4bb4-9989-6bb348616201" />
+<img width="471" alt="Screenshot 2025-02-18 at 8 50 43 AM" src="https://github.com/user-attachments/assets/530ef844-6b11-4d80-8d13-75a9169f0c0f" />
+
 
 
 **Sources**
