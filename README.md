@@ -11,12 +11,8 @@ We solely created the datasets contained in the Google Drive link. The drive con
 
 ### Rain Drop Example
 
-![IMG_1748 2](https://github.com/user-attachments/assets/620e30ee-27a6-4353-beba-c86a49c37484)
 <img width="471" alt="IMG_1748 2" src="https://github.com/user-attachments/assets/620e30ee-27a6-4353-beba-c86a49c37484" />
-Original
-
 <img width="471" alt="Screenshot 2025-02-18 at 8 23 10 AM" src="https://github.com/user-attachments/assets/bc9bbfa0-c098-487e-a734-50fc04c6c1c3" />
-Segmentation
 
 ### Soil Example
 [EXAMPLE SOIL 77.pdf](https://github.com/user-attachments/files/18494828/EXAMPLE.SOIL.77.pdf)
