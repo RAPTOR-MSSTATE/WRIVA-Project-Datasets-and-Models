@@ -19,6 +19,12 @@ We solely created the datasets contained in the Google Drive link. The drive con
 <img width="471" alt="IMG 2161" src="https://github.com/user-attachments/assets/773a62a2-ab74-4bb4-9989-6bb348616201" />
 <img width="471" alt="Screenshot 2025-02-18 at 8 50 43 AM" src="https://github.com/user-attachments/assets/530ef844-6b11-4d80-8d13-75a9169f0c0f" />
 
+### Finger in Lense Example
+
+<img width="471" alt="Image28-obstruction" src="https://github.com/user-attachments/assets/4964395a-b9ac-4299-97fe-d9e75ee3862d" />
+<img width="471" alt="Screenshot 2025-02-18 at 8 58 58 AM" src="https://github.com/user-attachments/assets/03e00e9c-9806-4f80-a628-4dfbd60bb2f8" />
+
+
 
 
 **Sources**
