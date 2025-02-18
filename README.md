@@ -28,7 +28,7 @@ We solely created the datasets contained in the Google Drive link. The drive con
 ### Colab File Used to Train Our Models
 https://colab.research.google.com/drive/1-59uZ6JBe-3zA5GJITm2ZWocBQmKRJZs?authuser=1#scrollTo=2z8JER1KM2Ul
 
-## Train a Custom Instance Segmentation Model Using Detectron2
+## Train Your Own Model Using Detectron2
 
 This guide provides step-by-step instructions to train a custom **instance segmentation model** using **Detectron2** using the **provided Google Colab File above**. It covers dataset preparation, model training, and evaluation.
 
