@@ -30,7 +30,7 @@ https://colab.research.google.com/drive/1-59uZ6JBe-3zA5GJITm2ZWocBQmKRJZs?authus
 
 ## Train a Custom Instance Segmentation Model Using Detectron2
 
-This guide provides step-by-step instructions to train a custom **instance segmentation model** using **Detectron2** using the **provided Google Colab File above**. It covers dataset preparation, model training, inference, and evaluation.
+This guide provides step-by-step instructions to train a custom **instance segmentation model** using **Detectron2** using the **provided Google Colab File above**. It covers dataset preparation, model training, and evaluation.
 
 ---
 
