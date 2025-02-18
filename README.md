@@ -64,7 +64,6 @@ Step-by-step instructions to train a custom **instance segmentation model** usin
 #### **5. Configure the Model**
 - Set hyperparameters such as:
   - **Batch size**
-  - **Learning rate**
   - **Number of iterations**
   - **Number of object classes**
 - Make sure the number you set for your object classes matches the number of unique artifact classes that were annotated.
